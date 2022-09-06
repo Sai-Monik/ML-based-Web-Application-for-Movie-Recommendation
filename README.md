@@ -19,11 +19,7 @@ This application uses <b>Content Based Movie Recommendation</b> to recommend mov
 <b>Deployed Web Application Link: </b>https://kvg-movie-zone.web.app/ <br/>
 <b>Deployed Flask API Link: </b>https://kvgmrs-api.herokuapp.com/
 
-## Demo
 
-<div align="center">
-<img src="./readme_assets/demo.gif" alt="demo" />
-</div>
 
 ## Architecture
 
