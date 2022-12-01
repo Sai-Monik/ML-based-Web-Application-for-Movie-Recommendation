@@ -10,7 +10,7 @@
 
 ## About
 
-<b>KVG Movie Zone</b> is an AI based web application in which you can search for any Hollywood Movie. This application will provide all the information related to that movie, does <b>sentiment analysis</b> on the movie reviews and the most interesting part, this application will provide you the top 10 <b>movie recommendations</b> based on your search.<br/>
+<b>Movie Zone</b> is an AI based web application in which you can search for any Hollywood Movie. This application will provide all the information related to that movie, does <b>sentiment analysis</b> on the movie reviews and the most interesting part, this application will provide you the top 10 <b>movie recommendations</b> based on your search.<br/>
 
 <b>ReactJS</b> was used for frontend which was deployed using <b>firebase hosting</b> and a <b>Flask API</b> was deployed using <b>Docker</b> container on <b>Heroku</b> to serve the machine learning models to the Frontend.
 
